@@ -4,3 +4,5 @@ Contributors:
     Francesco Murdocco 70571674 
     Rui Xia 15156542
     Preran Reddy Koppula 92363340
+    Lucas Wong 29709482
+  
